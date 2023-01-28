@@ -1044,4 +1044,5 @@ a4 = randint(1,10)   # type: int
 
 print("111")
 print("222")
+print("333")
 
